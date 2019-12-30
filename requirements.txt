@@ -1,0 +1,17 @@
+gym==0.15.4
+gym_2048==0.2.6
+imageio==2.6.1
+ipython==7.11.0
+jamotools==0.1.10
+keras==2.3.1
+matplotlib==3.1.2
+numpy==1.18.0
+pandas==0.25.3
+Pillow==6.2.1
+pyvirtualdisplay==0.2.5
+scikit_learn==0.22
+scipy==1.4.1
+seaborn==0.9.0
+tensorflow==2.0.0
+tensorflow_datasets==1.3.2
+tensorflow_hub==0.7.0
