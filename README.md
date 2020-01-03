@@ -4,7 +4,9 @@
 
 예제 파일 깃허브 저장소입니다.
 
+![](<https://raw.githubusercontent.com/wikibook/tf2/master/tf2_book.jpg>)
 
+[출판사 페이지 링크](<https://wikibook.co.kr/tf2/>)
 
 
 
