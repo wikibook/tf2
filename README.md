@@ -19,6 +19,13 @@ pip install -r requirements.txt
 ```
 
 
+
+## 주요 수정 사항
+
+- [2020.02.01] 예제 8.8에서 캐글에서 데이터세트를 받아오는 부분이 캐글측의 데이터 구조 변경으로 수정되었습니다. [구글 코랩](<https://drive.google.com/open?id=1mj7xE2W5BSMRqbdhdAYHFX-6qgqIQbxV>), [깃허브](<https://github.com/wikibook/tf2/blob/master/Chapter8.ipynb>)
+
+
+
 ## 기타
 
 [구글 코랩](<http://bit.ly/2YqzK5E>)에서도 예제 파일을 이용하실 수 있습니다.
