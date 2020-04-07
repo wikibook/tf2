@@ -24,6 +24,7 @@ pip install -r requirements.txt
 
 - [2020.02.01] 257p. 예제 8.8에서 캐글에서 데이터세트를 받아오는 부분이 캐글측의 데이터 구조 변경으로 수정되었습니다. [구글 코랩](<https://drive.google.com/open?id=1mj7xE2W5BSMRqbdhdAYHFX-6qgqIQbxV>), [깃허브](<https://github.com/wikibook/tf2/blob/master/Chapter8.ipynb>)
 
+- [2020.04.08] 263p. 예제 8.16의 OOM(Out Of Memory) 발생 문제. 구글 코랩이 [유료 버전](<https://colab.research.google.com/signup>)을 런칭하면서 대용량 RAM 모드를 무료 버전에서 지원하지 않기 때문에 발생한 문제입니다. 해당 부분을 수정한 노트북 파일을 [코랩](https://colab.research.google.com/drive/1oA-qEqoYr-NA4jxQ4SneTPv6NJffEzXQ)과 [깃허브](https://github.com/wikibook/tf2/blob/master/Chapter8_20200408%EC%88%98%EC%A0%95.ipynb)에 올려놓았습니다.
 
 
 ## 기타
