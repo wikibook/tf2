@@ -7,7 +7,7 @@ keras==2.3.1
 matplotlib==3.1.2
 numpy==1.18.0
 pandas==0.25.3
-Pillow==6.2.1
+Pillow==9.0.0
 pyvirtualdisplay==0.2.5
 scikit_learn==0.22
 scipy==1.4.1
