@@ -1,7 +1,7 @@
 gym==0.15.4
 gym_2048==0.2.6
 imageio==2.6.1
-ipython==7.11.0
+ipython==7.16.3
 jamotools==0.1.10
 keras==2.3.1
 matplotlib==3.1.2
