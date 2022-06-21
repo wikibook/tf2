@@ -5,7 +5,7 @@ ipython==7.11.0
 jamotools==0.1.10
 keras==2.3.1
 matplotlib==3.1.2
-numpy==1.18.0
+numpy==1.22.0
 pandas==0.25.3
 Pillow==6.2.1
 pyvirtualdisplay==0.2.5
